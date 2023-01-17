@@ -3,9 +3,6 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<h1 style="background-color:purple; text-align:center; font-size:30px;">ROHIT GHAWALE</h1>
-
 <!---
 codetopolymath/codetopolymath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
