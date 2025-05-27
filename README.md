@@ -1,7 +1,7 @@
 # Hello there! 👋 I'm Rohit Ghawale (@codetopolymath)
 
 ## About Me
-🚀 **Backend Software Developer** at SimplicityLabs/Verifier.Official with 2+ years building enterprise-grade systems
+🚀 **Backend Software Developer** at Pinnacle Teleservices Private Limited with 2+ years building enterprise-grade systems
 
 💼 **Current Role:** Developing blockchain applications, AI/ML services, and communication platforms (CPAAS)
 
