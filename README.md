@@ -1,46 +1,65 @@
-# Hello there! 👋 I'm @codetopolymath
+# Hello there! 👋 I'm Rohit Ghawale (@codetopolymath)
 
 ## About Me
-🚀 **Backend Developer** specializing in scalable enterprise systems and AI-powered applications
+🚀 **Backend Software Developer** at SimplicityLabs/Verifier.Official with 2+ years building enterprise-grade systems
 
-💻 **Core Expertise:**
-- **Python** - AI/ML (Keras, PyTorch, Transformers, HuggingFace), backend development, automation
-- **Java** - Enterprise secured applications, microservices, scalable backend systems
-- **JavaScript** - Node.js, Express.js, React.js (AI-assisted frontend development)
+💼 **Current Role:** Developing blockchain applications, AI/ML services, and communication platforms (CPAAS)
 
-🏗️ **System Architecture & Performance:**
-- **Threading & Concurrency** - Multi-threading, concurrency control, parallel processing
-- **Database Optimization** - Advanced MongoDB optimization, query performance tuning
-- **Event-Driven Systems** - Apache Kafka for real-time data streaming and messaging
-- **Enterprise Solutions** - Scalable, secure backend architectures
+🏆 **Key Achievements:**
+- **TRAI-approved secure messaging system** for government fraud prevention
+- **Built CPAAS platform from scratch** - SMS/Voice modules with Asterisk, IVR, CDR
+- **Blockchain R&D** - Private networks, IPFS-based file sharing, Web3 applications
+- **AI/ML Integration** - LLM applications using Langchain, Hugging Face, vector databases
 
-🤖 **AI & Machine Learning:**
-- **Model Development** - Creation, optimization, and deployment of ML models
-- **NLP & Transformers** - Tokenization, model fine-tuning, HuggingFace ecosystem
-- **AI-Assisted Development** - Leveraging AI tools for rapid frontend development
+## Technical Expertise
+**Backend & Systems:**
+- **Python** (Django, FastAPI, Flask) | **Node.js** (Express.js) | **Java**
+- **Threading, Concurrency** & **Database Optimization** (MongoDB, MySQL, PostgreSQL)
+- **Event-Driven Systems** - Apache Kafka, real-time messaging
+- **DevOps** - Docker, CI/CD, containerization
 
-🌱 **Currently Exploring:** Web3 technologies, blockchain development, and decentralized applications
+**Blockchain & Web3:**
+- **Solidity, Vyper, Pact** - Smart contract development
+- **IPFS** - Decentralized file sharing networks
+- **Private blockchain networks** and peer-to-peer applications
 
-## Collaboration & Open Source
-💞️ **Looking to collaborate on:**
-- **Backend systems** with complex concurrency requirements
-- **AI/ML projects** and model optimization
-- **Event-driven architectures** and real-time systems
-- **Web3 & blockchain** applications
-- **Open source** tools and libraries
+**AI & Machine Learning:**
+- **Model Development** - Keras, PyTorch, Transformers, HuggingFace
+- **LLM Applications** - Langchain, Pinecone vector DB
+- **AI Projects** - Text-to-image, speech summarization, image analysis
 
-🎯 **What I bring:**
-- **Enterprise-grade** architecture and security expertise
-- **Performance optimization** across databases and concurrent systems
-- **AI/ML integration** in production environments
-- **Full-stack capabilities** with modern development practices
+**Full-Stack Capabilities:**
+- **Frontend** - HTML, CSS, JavaScript, Angular, React.js
+- **AI-assisted development** for rapid prototyping
 
-## Professional Status
-🏢 **Currently focused on personal projects and open source contributions** - Not seeking employment
+## Professional Highlights
+🔐 **Government Projects** - Fraud prevention systems (confidential details)  
+📱 **CPAAS Platform** - Complete SMS/Voice communication solution  
+🌐 **Web3 Development** - Decentralized applications and blockchain research  
+🤖 **AI Integration** - Production ML systems and model optimization  
+
+## What I'm Looking For
+💼 **Seeking challenging roles in:**
+- **Senior Backend Engineering** - Distributed systems, microservices architecture
+- **Blockchain/Web3 Engineering** - DeFi, smart contracts, decentralized applications  
+- **AI/ML Engineering** - Production ML systems, LLM applications
+- **Full-Stack Development** - End-to-end innovative solutions
+
+🎯 **I thrive in environments that offer:**
+- Complex technical challenges and cutting-edge technologies
+- Collaborative teams working on impactful projects
+- Opportunities to learn while leveraging my diverse expertise
+- Innovation in blockchain, AI, or enterprise systems
+
+## Background
+🎓 **BTech Chemical Engineering** → **Software Development** (Career transition showcasing adaptability)  
+📍 **Located:** Nagpur, Maharashtra  
+💡 **Passion:** Building scalable systems that solve real-world problems
 
 ## Connect
 📫 **Email:** code.to.polymath@gmail.com  
-🔗 **Links:** [Your bookmark links here]
+💼 **LinkedIn:** [linkedin.com/in/99-rohit-ghawale](http://linkedin.com/in/99-rohit-ghawale)  
+🌐 **Portfolio:** [codetopolymath.github.io/portfolio](http://codetopolymath.github.io/portfolio)
 
 ---
-*Building the future with scalable backends, intelligent systems, and decentralized technologies.*
+*"From molecules to microservices - engineering solutions that matter."*
