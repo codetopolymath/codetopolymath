@@ -3,7 +3,7 @@
 ## About Me
 🚀 **Backend Software Developer** at Pinnacle Teleservices Private Limited with 2+ years building enterprise-grade systems
 
-💼 **Current Role:** Developing blockchain applications, AI/ML services, and communication platforms (CPAAS)
+💼 **Current Role:** Developing backend applications, AI/ML services, and communication platforms (CPAAS) services
 
 🏆 **Key Achievements:**
 - **TRAI-approved secure messaging system** for government fraud prevention
