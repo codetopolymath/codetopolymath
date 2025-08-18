@@ -6,7 +6,7 @@
 💼 **Current Role:** Developing backend applications, AI/ML services, and communication platforms (CPAAS) services
 
 🏆 **Key Achievements:**
-- **TRAI-approved secure messaging system** for government fraud prevention
+- **secure messaging system** for government fraud prevention
 - **Built CPAAS platform from scratch** - SMS/Voice modules with Asterisk, IVR, CDR
 - **Blockchain R&D** - Private networks, IPFS-based file sharing, Web3 applications
 - **AI/ML Integration** - LLM applications using Langchain, Hugging Face, vector databases
