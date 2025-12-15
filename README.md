@@ -1,65 +1,74 @@
-# Hello there! 👋 I'm Rohit Ghawale (@codetopolymath)
+# 👋 Hi, I'm Rohit Ghawale
 
-## About Me
-🚀 **Backend Software Developer** at Pinnacle Teleservices Private Limited with 2+ years building enterprise-grade systems
+**Software Engineer** building high-performance distributed systems | Rust • Python • Go
 
-💼 **Current Role:** Developing backend applications, AI/ML services, and communication platforms (CPAAS) services
+## 🚀 What I Do
 
-🏆 **Key Achievements:**
-- **secure messaging system** for government fraud prevention
-- **Built CPAAS platform from scratch** - SMS/Voice modules with Asterisk, IVR, CDR
-- **Blockchain R&D** - Private networks, IPFS-based file sharing, Web3 applications
-- **AI/ML Integration** - LLM applications using Langchain, Hugging Face, vector databases
+I specialize in **high-throughput, low-latency systems** for mission-critical applications:
 
-## Technical Expertise
-**Backend & Systems:**
-- **Python** (Django, FastAPI, Flask) | **Node.js** (Express.js) | **Java**
-- **Threading, Concurrency** & **Database Optimization** (MongoDB, MySQL, PostgreSQL)
-- **Event-Driven Systems** - Apache Kafka, real-time messaging
-- **DevOps** - Docker, CI/CD, containerization
+- 🔥 **150K TPS** telecom platforms with **99.9% SLA** across 20-server clusters
+- ⚡ Led **Python → Rust migration** reducing latency from 50ms to <5ms
+- 🏗️ Architected microservices handling **10M+ daily transactions**
+- 📊 Built observability stacks monitoring **50+ distributed services**
 
-**Blockchain & Web3:**
-- **Solidity, Vyper, Pact** - Smart contract development
-- **IPFS** - Decentralized file sharing networks
-- **Private blockchain networks** and peer-to-peer applications
+## 💻 Tech Stack
 
-**AI & Machine Learning:**
-- **Model Development** - Keras, PyTorch, Transformers, HuggingFace
-- **LLM Applications** - Langchain, Pinecone vector DB
-- **AI Projects** - Text-to-image, speech summarization, image analysis
+**Languages:** Rust • Python • Go • JavaScript • Java
 
-**Full-Stack Capabilities:**
-- **Frontend** - HTML, CSS, JavaScript, Angular, React.js
-- **AI-assisted development** for rapid prototyping
+**Backend:** Axum • Tokio • FastAPI • Django • Spring Boot
 
-## Professional Highlights
-🔐 **Government Projects** - Fraud prevention systems (confidential details)  
-📱 **CPAAS Platform** - Complete SMS/Voice communication solution  
-🌐 **Web3 Development** - Decentralized applications and blockchain research  
-🤖 **AI Integration** - Production ML systems and model optimization  
+**Infrastructure:** Docker Swarm • Kubernetes • HAProxy • Ansible • Terraform
 
-## What I'm Looking For
-💼 **Seeking challenging roles in:**
-- **Senior Backend Engineering** - Distributed systems, microservices architecture
-- **Blockchain/Web3 Engineering** - DeFi, smart contracts, decentralized applications  
-- **AI/ML Engineering** - Production ML systems, LLM applications
-- **Full-Stack Development** - End-to-end innovative solutions
+**Data:** PostgreSQL • ClickHouse • DragonflyDB • Redis • MongoDB • Kafka
 
-🎯 **I thrive in environments that offer:**
-- Complex technical challenges and cutting-edge technologies
-- Collaborative teams working on impactful projects
-- Opportunities to learn while leveraging my diverse expertise
-- Innovation in blockchain, AI, or enterprise systems
+**Cloud:** AWS • GCP • GitLab CI/CD
 
-## Background
-🎓 **BTech Chemical Engineering** → **Software Development** (Career transition showcasing adaptability)  
-📍 **Located:** Nagpur, Maharashtra  
-💡 **Passion:** Building scalable systems that solve real-world problems
+**Monitoring:** Prometheus • Grafana • k6 Load Testing
 
-## Connect
-📫 **Email:** code.to.polymath@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/99-rohit-ghawale](http://linkedin.com/in/99-rohit-ghawale)  
-🌐 **Portfolio:** [codetopolymath.github.io/portfolio](http://codetopolymath.github.io/portfolio)
+## 🎯 Current Focus
+
+- High-performance Rust services for telecom platforms
+- Event-driven architectures with Kafka
+- Database optimization at scale
+- Zero-downtime deployment strategies
+
+## 🛠️ Notable Work
+
+**Telecom Platform Engineering**
+- SMS/OTP routing systems processing millions of messages daily
+- SMPP protocol implementations with 10K+ concurrent connections
+- Real-time analytics on 1B+ records with sub-second queries
+
+**Performance Optimization**
+- Reduced infrastructure costs 40% through Rust migration
+- Achieved 70% query latency improvements via database tuning
+- Built custom load testing frameworks validating 100K+ concurrent requests
+
+**Distributed Systems**
+- Docker Swarm clusters with automated failover
+- HAProxy load balancing with health checks
+- Multi-region deployments with Ansible
+
+## 🌱 Side Projects
+
+**Development Tools**
+- LazyVim configuration optimized for polyglot development (Rust/Python/Go/JS)
+- Custom CLI tools for DevOps automation
+
+**Blockchain/DeFi**
+- MEV arbitrage systems on Cosmos SDK
+- Trading bot frameworks with backtesting capabilities
+
+**AI/ML**
+- LangChain applications with vector databases
+- Document Q&A systems using RAG patterns
+
+## 📫 Connect
+
+- 📧 code.to.polymath@gmail.com
+- 📍 Nagpur, India
+- 💼 [LinkedIn](https://linkedin.com/in/rohitghawale)
 
 ---
-*"From molecules to microservices - engineering solutions that matter."*
+
+*Most of my work is in private repositories (organizational IP). This profile showcases my approach to engineering and open-source contributions.*
